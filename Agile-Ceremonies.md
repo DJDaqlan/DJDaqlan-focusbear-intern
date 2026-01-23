@@ -1,0 +1,5 @@
+**How do Agile ceremonies help with communication and alignment?**
+Agile ceremonies help with communication because it allows most/all team members to meet at regular times to discuss any issues that they might have encountered during their work and allow other developers to help out. It also helps with alignment because it keeps all of the other members up to date with your work and if not, the team members can change their work to ensure that they are more aligned with the time frame of other developers.
+
+**Which ceremony do you think is most important for your role, and why?**
+In terms of my machine learning intern role, I believe the Sprint Retros will be the most important because it gives me the time and space to reflect on what the neural network and machine learning algorithm results are and plan accordingly.
